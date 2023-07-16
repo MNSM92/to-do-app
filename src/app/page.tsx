@@ -32,11 +32,13 @@ export default function Home(): any {
   );
 }
 
+
+
 const Footer = () => {
   return (
     <footer>
       <p>
-        &copy; {new Date().getFullYear()} TheNewCompany. All rights reserved.
+        &copy; {new Date().getFullYear()} TheNewCompany. All the rights reserved.
       </p>
     </footer>
   );
