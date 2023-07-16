@@ -38,7 +38,7 @@ const Footer = () => {
   return (
     <footer>
       <p>
-        &copy; {new Date().getFullYear()} TheNewCompany. All the rights reserved.
+        &copy; {new Date().getFullYear()} TheChangedCompany. All the rights reserved.
       </p>
     </footer>
   );
